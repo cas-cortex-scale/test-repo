@@ -20,7 +20,7 @@ resource "aws_s3_bucket" "data" {
   })
 }
 
-resource "aws_s3_bucket" "data4432342423423" {
+resource "aws_s3_bucket" "data2222" {
   # bucket is public
   # bucket is not encrypted
   # bucket does not have access logs
@@ -42,7 +42,7 @@ resource "aws_s3_bucket" "data4432342423423" {
   })
 }
 
-resource "aws_s3_bucket" "data2" {
+resource "aws_s3_bucket" "data123" {
   # bucket is public
   # bucket is not encrypted
   # bucket does not have access logs
